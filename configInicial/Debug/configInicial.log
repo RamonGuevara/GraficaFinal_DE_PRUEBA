@@ -1,3 +1,13 @@
-﻿  Modelado_Jerarquico.cpp
+﻿  Main.cpp
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Shader.h(37,34): warning C4101: 'e': variable local sin referencia
+  (compilando archivo de origen "Main.cpp")
+  
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(214,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(548,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(549,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(552,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(553,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(554,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\configInicial\Main.cpp(555,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
 LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-  configInicial.vcxproj -> C:\Users\CGIH12\Desktop\Practica0\configInicial\Debug\configInicial.exe
+  configInicial.vcxproj -> C:\Users\RamonG\Documents\ONCEAVO_SEMESTRE_PTM\Computacion_Grafica\Practica\ProyectoFinal\configInicial\Debug\configInicial.exe

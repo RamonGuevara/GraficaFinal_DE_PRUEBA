@@ -18,15 +18,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Shader\core.frag">
-      <Filter>Archivos de origen\Shader</Filter>
+    <None Include="Shader\escena.frag">
+      <Filter>Archivos de origen</Filter>
     </None>
-    <None Include="Shader\core.vs">
-      <Filter>Archivos de origen\Shader</Filter>
+    <None Include="Shader\escena.vs">
+      <Filter>Archivos de origen</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Modelado_Jerarquico.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

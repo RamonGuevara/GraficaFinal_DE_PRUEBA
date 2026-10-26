@@ -1,0 +1,6 @@
+newmtl aficionado_local
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+Ns 16
+map_Kd aficionado_local.png
